@@ -268,27 +268,9 @@ docker-compose logs -f
 docker-compose down
 ```
 
-## Contributing
-
-1. Create a feature branch
-2. Make your changes
-3. Run tests: `poetry run pytest`
-4. Run type checking: `poetry run mypy app/`
-5. Submit a pull request
-
 ## Language Focus
 
 This app is specifically designed for **Southern Vietnamese dialect**. The vocabulary and grammar patterns reflect conversational Southern Vietnamese usage.
-
-## Future Enhancements
-
-- [ ] User authentication
-- [ ] Save quiz results/progress
-- [ ] Multiple language support
-- [ ] Difficulty level adjustments
-- [ ] Audio pronunciation
-- [ ] Spaced repetition system
-- [ ] Frontend interface
 
 ## License
 
