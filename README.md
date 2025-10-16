@@ -34,7 +34,7 @@ A FastAPI-based backend for generating Vietnamese language learning questions us
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RileyMunro/language-app-backend.git
 cd backend
 ```
 
